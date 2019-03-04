@@ -1,0 +1,27 @@
+.clearfloat { clear:both; height:0; font-size: 1px; line-height: 0; }
+
+#container{ margin:0 auto; width:960px; }
+
+/*header*/
+
+#header { height:100px; background:#cf0; }
+
+#header h1 { padding:10px 20px; }
+
+#nav { background:#FF6600; height:35px; margin-bottom:6px; padding:5px; }
+
+#nav ul li { float:left; }
+
+/*main*/
+
+#mainContent { overflow:auto; zoom:1; margin-bottom:6px; }
+
+#side { width:200px; float:left; }
+
+.sidebox ul { padding:4px 6px; }
+
+#main { width:742px; float:right; }
+
+.mainbox ul { padding:4px 6px; }
+
+/*footer*/
